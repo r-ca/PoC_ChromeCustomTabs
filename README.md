@@ -1,4 +1,4 @@
-## Licence
+## Licence: 0BSD
 ```
 ゼロ条項BSD
 
